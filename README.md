@@ -1,2 +1,2 @@
-# Ai
-Ai for random games
+# Ai Design
+Ai designs for random video games for young people.
