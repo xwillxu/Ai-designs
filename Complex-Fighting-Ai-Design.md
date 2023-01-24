@@ -1,2 +1,2 @@
 Movement:
-The AI will move to a player within its sight, if the AI's hp is more than 30 health lower (max health being 100) than its target it will head in another direction and or to a weaker player.
+The AI will move to a player within its sight, if the AI's hp is more than 30 health lower (max health being 100) than its target it will head in another direction and or to a weaker player. The AI's speed is seven pixels per frame, which is 0.1 pixel slower that the players speed (7.1).
